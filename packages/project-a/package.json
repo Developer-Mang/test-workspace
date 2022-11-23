@@ -27,6 +27,8 @@
     "url": "https://github.com/Developer-Mang/test-workspace/issues"
   },
   "dependencies": {
-    "react": "^18.2.0"
+    "create-react-app": "^5.0.1",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
   }
 }
