@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/Developer-Mang/test-workspace/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
   }
 }
