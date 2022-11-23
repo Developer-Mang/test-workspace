@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Developer-Mang/test-workspace/issues"
   },
-  "homepage": "https://github.com/Developer-Mang/test-workspace#readme"
+  "homepage": "https://github.com/Developer-Mang/test-workspace#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  },
+  "workspaces": [
+    "./packages/*"
+  ]
 }
